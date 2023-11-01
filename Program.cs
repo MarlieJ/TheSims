@@ -1,0 +1,3 @@
+﻿using TheSims;
+
+new simsWorld();
